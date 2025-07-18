@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hello, I'm Pradeep Kumar (aka DeveloperHunt)</h1>
+<h1 align="center">👋 Hello, I'm Pradeep Kumar</h1>
 
 🎓 Final-year Information Technology student at **Hindusthan College of Engineering and Technology**, passionate about full-stack development, cloud, cybersecurity, and white-hat hacking.
 
@@ -62,9 +62,9 @@
 | Certificate Title               | Platform / Organizer       | Domain               |
 |--------------------------------|----------------------------|----------------------|
 | Introduction to DevOps          | DevOps Institute / Webinar | DevOps               |
-| Ethical Hacking Workshop        | [Add Organizer]            | Cybersecurity        |
-| Getting Started with AI         | [Add Platform]             | Artificial Intelligence |
-| Git & GitHub for Beginners      | [Add Platform]             | Version Control      |
+| Ethical Hacking Workshop        | [GUVI]            | Cybersecurity        |
+| Getting Started with AI         | [One skill]             | Artificial Intelligence |
+| Git & GitHub for Beginners      | [Btree Systems]             | Version Control      |
 
 > 🔖 *Add certificate image links or badge URLs if available*
 
