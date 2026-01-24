@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hello, I'm Pradeep Kumar</h1>
+<h1 align="center">👋 Hello, I'm Pradeepkumar</h1>
 
 🎓 Final-year Information Technology student at **Hindusthan College of Engineering and Technology**, passionate about full-stack development, cloud, cybersecurity, and white-hat hacking.
 
